@@ -27,7 +27,10 @@
   },
 
   "dependencies": {
-      "socket.io": "x"
+      "socket.io": "x",
+      "jade": "x",
+      "stylus": "x",
+      "express": "x"
   },
   "devDependencies": {},
   "bundleDependencies": [],
