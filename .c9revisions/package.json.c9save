@@ -5,3 +5,4 @@
 {"ts":1368370270944,"patch":[[{"diffs":[[0,"ket.io\":"],[1," \"x\",\n      \"express\":"],[0," \"x\"\n  }"]],"start1":586,"start2":586,"length1":16,"length2":38}]],"length":724,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1368370971560,"patch":[[{"diffs":[[0,"\": \"x\",\n"],[1,"      \"jade\": \"x\"\n"],[0,"      \"e"]],"start1":592,"start2":592,"length1":16,"length2":34}]],"length":742,"saved":false}
 {"ts":1368371048590,"patch":[[{"diffs":[[0,"de\": \"x\""],[1,",\n      \"stylus\": \"x\","],[0,"\n      \""]],"start1":609,"start2":609,"length1":16,"length2":38}]],"length":764,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1368385641912,"patch":[[{"diffs":[[0,"name\": \""],[-1,"MobileMotionSocket"],[1,"mms"],[0,"\",\n  \"ve"]],"start1":5,"start2":5,"length1":34,"length2":19}]],"length":749,"saved":false}
