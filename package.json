@@ -35,6 +35,6 @@
   "devDependencies": {},
   "bundleDependencies": [],
 
-  "private": false,
+  "private": true,
   "main": "app.js"
 }
