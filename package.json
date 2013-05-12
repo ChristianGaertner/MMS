@@ -1,22 +1,24 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "MobileMotionSocket",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "description": "MobileMotionSocket",
   "keywords": [
     "OpenShift",
     "Node.js",
     "application",
-    "openshift"
+    "socket",
+    "socket.io",
+    "gyro"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url":  "http://openshift.redhat.com/"
+    "name": "Christian Gärtner",
+    "email": "christiangaertner.film@googlemail.com",
+    "url":  "http://christiangaertner.github.io"
   },
-  "homepage": "http://openshift.redhat.com/",
+  "homepage": "http://christiangaertner.github.io/projects/mms",
   "repository": {
     "type": "git",
-    "url": "https://gitub.com/openshift/origin-server"
+    "url": "n/a"
   },
 
   "engines": {
@@ -25,10 +27,11 @@
   },
 
   "dependencies": {
+      "socket.io": "x"
   },
   "devDependencies": {},
   "bundleDependencies": [],
 
-  "private": true,
+  "private": false,
   "main": "server.js"
 }
