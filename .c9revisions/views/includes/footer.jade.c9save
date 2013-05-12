@@ -1,0 +1,5 @@
+{"ts":1368374714879,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"//- include the socket server file\nscript(src='/socket.io/socket.io.js')\nscript(src='/javascripts/client.js')"]],"start1":0,"start2":0,"length1":0,"length2":109}]],"length":109}
+{"contributors":[],"silentsave":false,"ts":1368374730671,"patch":[[{"diffs":[[0,"pt(src='"],[1,"http://mms.christiangaertner.c9.io"],[0,"/javascr"]],"start1":77,"start2":77,"length1":16,"length2":50}]],"length":143,"saved":false}
+{"ts":1368374743545,"patch":[[{"diffs":[[0,"rc='"],[-1,"http://mms.christiangaertner.c9.io/javascripts/client"],[1,"js//mms"],[0,".js'"]],"start1":81,"start2":81,"length1":61,"length2":15}]],"length":97,"saved":false}
+{"ts":1368374745585,"patch":[[{"diffs":[[0,"src='js/"],[-1,"/"],[0,"mms.js')"]],"start1":80,"start2":80,"length1":17,"length2":16}]],"length":96,"saved":false}
+{"ts":1368374748142,"patch":[[{"diffs":[[0,"pt(src='"],[1,"http://mms.christiangaertner.c9.io"],[0,"/socket."]],"start1":39,"start2":39,"length1":16,"length2":50}]],"length":130,"saved":false}

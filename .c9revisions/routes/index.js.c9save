@@ -1,0 +1,2 @@
+{"ts":1368379827805,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"\n/*\n * GET home page.\n */\n\nexports.index = function(req, res){\n  res.setHeader('Access-Control-Allow-Origin', '*');\n  res.render('index', { title: 'Node Device Socket' });\n};"]],"start1":0,"start2":0,"length1":0,"length2":174}]],"length":174}
+{"contributors":[],"silentsave":false,"ts":1368379845633,"patch":[[{"diffs":[[0,"e: '"],[-1,"Node Device"],[1,"Mobile Motion"],[0," Socket"],[1," - MMS"],[0,"' })"]],"start1":144,"start2":144,"length1":26,"length2":34}]],"length":182,"saved":false}

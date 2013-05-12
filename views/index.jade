@@ -1,0 +1,41 @@
+extends layout
+
+block content
+  span(id="mms_status") Connecting...
+  h1= title
+  p Welcome to #{title}
+  label Controller:&nbsp;
+    input(type="checkbox", name="mms_ctrl", value="1", id="mms_ctrl")
+
+
+  
+  p X:
+  span(id="x") waiting...
+  br
+  p Z:
+  span(id="z") waiting...
+  br
+  p O:
+  span(id="o") waiting...
+  
+  
+  h2 Basic Examples
+  
+  h4 CarControl
+  small Here displayed by a progress bar
+    
+  div(class="progress")
+    div(class="bar bar-success", id="carposmarginL", style="width: 49.5%")
+    div(class="bar bar-danger", id="carpos", style="width: 1%")
+    div(class="bar bar-success", id="carposmarginR", style="width: 49.5%")
+  
+  hr
+  
+  h4 Billiard STARTER
+  small Here just one ball displayed
+  
+  div(id="pool")
+    b(id="ball")
+  
+    
+    
